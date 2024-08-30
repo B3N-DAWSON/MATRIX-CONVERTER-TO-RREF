@@ -1,6 +1,8 @@
 import sys
 from sympy import *
 
+################# NOT MY PARSER, FOUND ONLINE (reference README) #################################
+
 def parse_input():
     rows = []
     for line in sys.stdin:
@@ -41,7 +43,8 @@ def scale_string(i,c): # Ri = cRi
     return "m{0}:{1}".format(i,rational_string(c))
 
 A = parse_input()
-# ---------------------------------------------------------------------- # 
+
+## ^ NOT MY PARSER, FOUND ONLINE (reference README) ^ #################################
 
 ops = []
 
