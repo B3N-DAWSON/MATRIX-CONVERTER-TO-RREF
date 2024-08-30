@@ -24,7 +24,7 @@
 
 # MORE INFORMATION 
 
-- Matrixes outputted by this program can be checked against the original motivation for this project, the online calcualtor that converts matrixes into Reduced Row Echelon Form: 
+- Matrixes outputted by this program can be checked against the original motivation for this project, the online calculator that converts matrixes into Reduced Row Echelon Form: 
 
 <br>
 
